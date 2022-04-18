@@ -1,0 +1,16 @@
+.date
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 15%;
+}
+
+.text
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 4px;
+    width: 350%;
+}

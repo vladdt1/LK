@@ -1,0 +1,17 @@
+/*для мобильных устройств*/
+@media screen and (max-width: 640px) {
+    aside {width:98%;}
+    article {width:98%;}
+    #container {font-size:120%;}
+    #razdeli_opisanie {width:95%;}
+}
+
+@media screen and (max-width: 1024px) {
+    body {font-size:85%;}
+}
+
+@media screen and (min-width: 1280px) {
+    body {
+        font-size: 100%;
+    }
+}

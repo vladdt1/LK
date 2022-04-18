@@ -1,0 +1,19 @@
+.footer
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: #cbe5f3;
+
+    position:absolute;bottom:0;width:100%;
+}
+
+
+
+ .wrapper {
+     background: none;
+     position: absolute;
+     left: 40%;
+     margin: 1% -50% 0 10%;
+     transform: translate(0%, 30%);
+}
+
